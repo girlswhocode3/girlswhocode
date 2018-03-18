@@ -6,7 +6,6 @@ Created on Mar 17, 2018
 
 my_number = 13
 
-testing=1
 # Ask the user to guess
 guess = int(input("Enter a guess: "))
 
