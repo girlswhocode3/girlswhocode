@@ -4,7 +4,7 @@ Created on Mar 17, 2018
 @author: anisha
 '''
 
-my_number = 134
+my_number = 1345
 
 # Ask the user to guess
 guess = int(input("Enter a guess: "))
